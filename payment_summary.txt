@@ -1,0 +1,11 @@
+================================
+       PAYMENT SUMMARY
+================================
+Total payments: KSh 5700.00
+Number of payments: 5
+Largest payment: KSh 2500.00
+Smallest payment: KSh 500.00
+Average payment: KSh 1140.00
+Payments reaching KSh 1,000: 2
+Payments below KSh 1,000: 3
+================================
